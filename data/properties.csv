@@ -1,0 +1,121 @@
+property_id,city,neighborhood,property_type,area_sqft,bedrooms,bathrooms,property_age,price
+EST-0001,Islamabad,F-7,House,1706,4,5,33,30160000
+EST-0002,Lahore,Johar Town,House,1355,5,5,1,14280000
+EST-0003,Rawalpindi,Bahria Town,House,3020,4,4,3,20850000
+EST-0004,Karachi,Gulshan-e-Iqbal,Apartment,2993,1,1,23,41120000
+EST-0005,Islamabad,DHA,Apartment,3785,2,2,30,61110000
+EST-0006,Rawalpindi,PWD,House,1181,5,5,33,8250000
+EST-0007,Karachi,DHA,House,609,5,5,17,9270000
+EST-0008,Islamabad,F-7,House,1631,5,5,29,31430000
+EST-0009,Islamabad,G-11,House,3660,1,2,15,74540000
+EST-0010,Lahore,DHA,Plot,2270,0,0,28,18880000
+EST-0011,Karachi,Bahria Town,House,1115,2,1,14,17210000
+EST-0012,Karachi,Bahria Town,Apartment,1867,1,2,31,17750000
+EST-0013,Karachi,Gulshan-e-Iqbal,House,1255,4,4,13,15620000
+EST-0014,Lahore,Gulberg,House,2177,2,1,28,30050000
+EST-0015,Rawalpindi,PWD,Plot,6534,0,0,26,28260000
+EST-0016,Lahore,Johar Town,House,1674,5,4,18,16750000
+EST-0017,Lahore,Johar Town,Plot,6869,0,0,27,45330000
+EST-0018,Karachi,Gulshan-e-Iqbal,Apartment,2669,1,1,35,35120000
+EST-0019,Rawalpindi,Satellite Town,House,1994,1,1,25,14350000
+EST-0020,Karachi,Clifton,Apartment,3504,2,1,26,42360000
+EST-0021,Rawalpindi,PWD,Apartment,1669,2,1,14,13100000
+EST-0022,Rawalpindi,Bahria Town,Apartment,3208,2,3,18,20810000
+EST-0023,Rawalpindi,Satellite Town,Apartment,1571,2,2,24,8660000
+EST-0024,Rawalpindi,Satellite Town,Apartment,3280,1,2,13,25960000
+EST-0025,Lahore,Johar Town,House,2345,1,1,28,21710000
+EST-0026,Karachi,Gulshan-e-Iqbal,Apartment,905,1,2,2,10890000
+EST-0027,Karachi,Gulshan-e-Iqbal,House,2765,2,1,11,44590000
+EST-0028,Rawalpindi,Satellite Town,House,770,5,5,2,7900000
+EST-0029,Lahore,DHA,House,3247,2,2,30,40920000
+EST-0030,Islamabad,F-7,Apartment,2919,3,2,20,38360000
+EST-0031,Islamabad,F-7,House,1327,2,3,20,28360000
+EST-0032,Lahore,Bahria Town,Apartment,2627,3,3,35,27210000
+EST-0033,Islamabad,Bahria Enclave,Plot,6128,0,0,8,80970000
+EST-0034,Islamabad,F-7,Apartment,1884,3,3,34,25080000
+EST-0035,Islamabad,Bahria Enclave,House,616,3,4,30,14070000
+EST-0036,Rawalpindi,Satellite Town,House,1741,1,1,28,15630000
+EST-0037,Rawalpindi,Satellite Town,Apartment,516,3,4,11,4140000
+EST-0038,Lahore,Bahria Town,Plot,4638,0,0,0,34610000
+EST-0039,Rawalpindi,Satellite Town,House,589,4,5,22,5680000
+EST-0040,Islamabad,G-11,House,710,5,5,34,15910000
+EST-0041,Karachi,Bahria Town,House,1046,3,2,1,16490000
+EST-0042,Lahore,Gulberg,Plot,3457,0,0,17,30980000
+EST-0043,Rawalpindi,Bahria Town,Plot,5339,0,0,18,23750000
+EST-0044,Karachi,Clifton,Apartment,2783,3,3,4,35920000
+EST-0045,Lahore,DHA,Apartment,1721,2,1,5,18820000
+EST-0046,Karachi,Bahria Town,Plot,6076,0,0,2,56060000
+EST-0047,Islamabad,Bahria Enclave,Plot,6197,0,0,0,101210000
+EST-0048,Lahore,DHA,Apartment,989,1,1,31,7400000
+EST-0049,Lahore,Johar Town,Plot,900,0,0,24,7270000
+EST-0050,Rawalpindi,Saddar,Apartment,1020,1,1,22,7150000
+EST-0051,Rawalpindi,Saddar,Plot,1570,0,0,29,7430000
+EST-0052,Karachi,Clifton,House,3743,1,1,10,46700000
+EST-0053,Karachi,Bahria Town,Apartment,1255,1,1,4,13400000
+EST-0054,Karachi,Clifton,House,2212,3,2,13,33740000
+EST-0055,Rawalpindi,Satellite Town,Apartment,856,3,3,9,5680000
+EST-0056,Rawalpindi,Bahria Town,House,2738,5,5,21,16600000
+EST-0057,Karachi,Clifton,Apartment,1075,1,1,2,14300000
+EST-0058,Rawalpindi,Saddar,House,4095,3,3,13,33690000
+EST-0059,Islamabad,DHA,House,2203,4,3,25,43170000
+EST-0060,Rawalpindi,Bahria Town,Apartment,518,1,1,1,2740000
+EST-0061,Islamabad,G-11,House,3451,3,4,9,73950000
+EST-0062,Lahore,Johar Town,Apartment,2896,3,4,11,29550000
+EST-0063,Rawalpindi,Satellite Town,Apartment,3793,1,1,19,26130000
+EST-0064,Rawalpindi,Bahria Town,House,673,4,3,17,4390000
+EST-0065,Karachi,Clifton,Plot,3891,0,0,27,39070000
+EST-0066,Lahore,DHA,Apartment,2594,3,3,16,28480000
+EST-0067,Lahore,Gulberg,Apartment,2652,1,2,20,30630000
+EST-0068,Rawalpindi,Satellite Town,House,1356,5,5,3,12860000
+EST-0069,Islamabad,F-7,House,971,1,1,7,22430000
+EST-0070,Islamabad,G-11,House,864,3,3,18,19130000
+EST-0071,Rawalpindi,PWD,Plot,7145,0,0,25,42570000
+EST-0072,Islamabad,F-7,Apartment,3663,1,1,29,57690000
+EST-0073,Karachi,Clifton,House,3426,3,4,14,49630000
+EST-0074,Lahore,Gulberg,Apartment,1599,3,3,7,16330000
+EST-0075,Rawalpindi,Saddar,Apartment,1498,2,3,11,11650000
+EST-0076,Rawalpindi,Bahria Town,Apartment,924,3,3,24,6490000
+EST-0077,Rawalpindi,Saddar,Plot,3123,0,0,11,15280000
+EST-0078,Lahore,Gulberg,House,3061,3,3,26,32680000
+EST-0079,Lahore,Bahria Town,House,4185,1,1,4,54490000
+EST-0080,Karachi,Clifton,House,3471,5,4,32,45130000
+EST-0081,Islamabad,Bahria Enclave,Plot,7172,0,0,5,115800000
+EST-0082,Lahore,Johar Town,House,4159,2,1,6,42290000
+EST-0083,Karachi,DHA,Plot,2043,0,0,5,19760000
+EST-0084,Rawalpindi,Satellite Town,Apartment,2531,3,2,2,18420000
+EST-0085,Lahore,DHA,House,3820,5,5,0,47250000
+EST-0086,Lahore,Johar Town,Apartment,3163,1,1,33,29510000
+EST-0087,Lahore,Bahria Town,House,1285,3,3,19,13600000
+EST-0088,Lahore,Bahria Town,House,4157,1,1,4,56930000
+EST-0089,Rawalpindi,Bahria Town,Apartment,4146,1,1,32,20980000
+EST-0090,Lahore,Bahria Town,Apartment,2669,1,2,3,26190000
+EST-0091,Karachi,Bahria Town,Apartment,2600,1,1,21,32190000
+EST-0092,Lahore,Bahria Town,House,3503,5,5,10,36750000
+EST-0093,Lahore,Gulberg,Apartment,1091,2,3,10,13160000
+EST-0094,Rawalpindi,Saddar,House,4103,5,5,14,35020000
+EST-0095,Islamabad,G-11,House,572,5,5,12,11280000
+EST-0096,Rawalpindi,Bahria Town,House,2327,3,4,21,14420000
+EST-0097,Lahore,Johar Town,Plot,6474,0,0,19,45320000
+EST-0098,Lahore,DHA,House,3197,4,4,15,32640000
+EST-0099,Lahore,DHA,Plot,1313,0,0,23,7920000
+EST-0100,Karachi,DHA,House,2607,1,1,14,33310000
+EST-0101,Karachi,Clifton,House,977,5,5,29,11530000
+EST-0102,Islamabad,DHA,House,3358,4,4,11,70320000
+EST-0103,Rawalpindi,Satellite Town,Apartment,2919,1,2,25,20070000
+EST-0104,Rawalpindi,Satellite Town,Plot,2366,0,0,25,10010000
+EST-0105,Karachi,DHA,Apartment,3774,1,1,19,47400000
+EST-0106,Lahore,DHA,Plot,1943,0,0,30,14790000
+EST-0107,Rawalpindi,Satellite Town,Plot,5562,0,0,22,32040000
+EST-0108,Islamabad,DHA,Apartment,3286,2,2,26,60860000
+EST-0109,Rawalpindi,PWD,House,3336,4,4,22,31560000
+EST-0110,Rawalpindi,Bahria Town,Apartment,769,3,3,1,4840000
+EST-0111,Karachi,Clifton,Apartment,1058,3,3,23,10270000
+EST-0112,Lahore,Bahria Town,House,921,4,4,26,10290000
+EST-0113,Karachi,Clifton,Apartment,1929,2,1,5,20800000
+EST-0114,Lahore,DHA,House,3838,1,1,17,51330000
+EST-0115,Karachi,DHA,Plot,6799,0,0,13,69520000
+EST-0116,Islamabad,G-11,House,2627,3,3,8,64830000
+EST-0117,Islamabad,F-7,House,1987,1,2,32,33350000
+EST-0118,Karachi,DHA,Apartment,2601,2,2,32,30970000
+EST-0119,Rawalpindi,Satellite Town,Apartment,2243,1,1,14,15910000
+EST-0120,Karachi,Gulshan-e-Iqbal,House,2534,4,4,12,32340000

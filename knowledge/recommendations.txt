@@ -1,0 +1,1 @@
+Property recommendation systems can rank listings using city, neighborhood, budget, area, type, bedrooms, bathrooms, and amenities. A transparent demo can use a weighted similarity score. Production recommenders should be tested with user feedback and should not imply availability or suitability without verification.

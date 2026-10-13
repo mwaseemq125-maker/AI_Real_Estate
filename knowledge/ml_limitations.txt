@@ -1,0 +1,1 @@
+Machine learning limitations: Models learn patterns from their training data. Predictions can be inaccurate when data is small, outdated, biased, synthetic, or unlike the target property. Exact street, construction quality, legal status, recent sales, and other omitted factors may materially affect value. Verify estimates against current comparable transactions.

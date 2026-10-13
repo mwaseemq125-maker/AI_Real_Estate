@@ -1,0 +1,244 @@
+/* EstateIQ — Premium Real Estate Intelligence UI */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+    --bg: #090d18;
+    --surface: #111827;
+    --surface-2: #171f31;
+    --border: rgba(148, 163, 184, .17);
+    --text: #f1f5f9;
+    --muted: #94a3b8;
+    --primary: #8b5cf6;
+    --accent: #2dd4bf;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background:
+        radial-gradient(ellipse at 15% 0%, rgba(124, 58, 237, .15), transparent 42%),
+        radial-gradient(ellipse at 95% 20%, rgba(20, 184, 166, .09), transparent 35%),
+        var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    min-height: 100vh;
+}
+
+a {
+    color: #c4b5fd;
+    text-decoration: none;
+    transition: color .2s ease;
+}
+
+a:hover {
+    color: var(--accent);
+}
+
+img {
+    max-width: 100%;
+    border-radius: 14px;
+}
+
+nav, header, .navbar {
+    background: rgba(9, 13, 24, .92);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 5%;
+}
+
+.navbar-brand, nav a {
+    color: var(--text);
+    font-weight: 700;
+}
+
+main, .container {
+    width: min(1180px, 92%);
+    margin: 0 auto;
+}
+
+section {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+h1, h2, h3, h4 {
+    color: #f8fafc;
+    font-weight: 750;
+    line-height: 1.25;
+    letter-spacing: -.5px;
+}
+
+h1 {
+    font-size: clamp(2.2rem, 5vw, 4rem);
+}
+
+h2 {
+    font-size: clamp(1.5rem, 3vw, 2.2rem);
+}
+
+p, small, label {
+    color: var(--muted);
+}
+
+button, .btn, input[type="submit"] {
+    border: 0;
+    border-radius: 11px;
+    background: linear-gradient(135deg, #8b5cf6, #6366f1);
+    color: white;
+    font-weight: 700;
+    padding: 12px 21px;
+    cursor: pointer;
+    transition: transform .2s, box-shadow .2s;
+}
+
+button:hover, .btn:hover, input[type="submit"]:hover {
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(139, 92, 246, .25);
+}
+
+.btn-outline, .btn-secondary {
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    color: var(--text);
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 13px 15px;
+    margin: 6px 0 16px;
+    border: 1px solid var(--border);
+    border-radius: 11px;
+    outline: none;
+    background: #0d1422;
+    color: var(--text);
+    font: inherit;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(139, 92, 246, .12);
+}
+
+input::placeholder, textarea::placeholder {
+    color: #64748b;
+}
+
+.card, .metric-card, .stat-card, .property-card,
+.panel, .chart-card, .glass-card {
+    background: linear-gradient(145deg, rgba(23, 31, 49, .95), rgba(15, 23, 42, .92));
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 24px;
+    box-shadow: 0 12px 35px rgba(0, 0, 0, .15);
+    transition: transform .25s ease, border-color .25s ease;
+}
+
+.card:hover, .metric-card:hover, .stat-card:hover,
+.property-card:hover, .panel:hover {
+    transform: translateY(-4px);
+    border-color: rgba(139, 92, 246, .5);
+}
+
+.card h3, .metric-card h3, .stat-card h3 {
+    margin-top: 0;
+}
+
+.grid, .stats-grid, .metrics-grid, .property-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 22px;
+    margin: 25px 0;
+}
+
+.hero {
+    padding: 65px 0 40px;
+    max-width: 850px;
+}
+
+.hero p {
+    font-size: 1.08rem;
+    max-width: 720px;
+}
+
+.badge, .tag {
+    display: inline-block;
+    padding: 5px 12px;
+    border-radius: 999px;
+    background: rgba(45, 212, 191, .1);
+    color: var(--accent);
+    border: 1px solid rgba(45, 212, 191, .18);
+    font-size: .78rem;
+    font-weight: 700;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+th, td {
+    padding: 14px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+}
+
+th {
+    color: #c4b5fd;
+    background: var(--surface-2);
+}
+
+td {
+    color: #cbd5e1;
+}
+
+tr:hover td {
+    background: rgba(139, 92, 246, .05);
+}
+
+img, canvas, svg {
+    max-width: 100%;
+}
+
+hr {
+    border-color: var(--border);
+}
+
+footer {
+    margin-top: 70px;
+    padding: 28px 5%;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    text-align: center;
+}
+
+@media (max-width: 700px) {
+    .hero {
+        padding: 35px 0 20px;
+    }
+
+    .card, .metric-card, .stat-card, .panel {
+        padding: 18px;
+    }
+
+    .grid, .stats-grid, .metrics-grid, .property-grid {
+        grid-template-columns: 1fr;
+    }
+
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+}

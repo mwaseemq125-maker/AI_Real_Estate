@@ -1,0 +1,2 @@
+# Buyer due diligence
+Before buying, independently verify title and ownership, approved building plans, taxes and utility dues, seller authority, physical condition, boundaries, access, and local restrictions. Seek qualified local legal and property professionals. Do not rely on AI as the sole basis for legal or financial decisions.

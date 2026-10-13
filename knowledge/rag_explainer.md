@@ -1,0 +1,2 @@
+# Retrieval augmented generation
+RAG retrieves relevant text chunks and passes them to a language model as context. Embeddings represent semantic meaning as vectors. ChromaDB stores vectors and metadata for similarity search. A model should answer from retrieved context and admit when evidence is insufficient. Retrieval similarity does not guarantee answer correctness.
