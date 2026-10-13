@@ -14,9 +14,9 @@ cp .env.example .env
 Optional: edit `.env` and set `GROQ_API_KEY` from https://console.groq.com/. Without a key, document retrieval works and the UI explains that generation is disabled. First RAG use downloads `sentence-transformers/all-MiniLM-L6-v2`.
 
 ```bash
-uvicorn app:app --reload
+uvicorn app:app --reload --port 8050
 ```
-Open http://127.0.0.1:8000
+Open http://127.0.0.1:8050
 
 ## Core files
 - `app.py`: FastAPI routes and request validation.
